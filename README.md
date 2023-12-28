@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexeiPelyushenko
 
-Welcome to my profile. There isn't much going on in my github at the moment but perhaps you'll be intrigued by some of the projects I've worked on.
+Welcome to my profile. Feel free to check out the projects I worked on. The main ones are in AlexeiPely_Portfolio.
 You can reach me at alexpelyushenko@gmail.com
